@@ -1,4 +1,4 @@
-## Source RPM Spec for ii - http://tools.suckless.org/ii/
+# Source RPM Spec for ii - http://tools.suckless.org/ii/
 
 Quickstart:
 
